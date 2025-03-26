@@ -1,0 +1,29 @@
+/* Optional Custom CSS */
+
+/* Apply smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* You can add custom styles or overrides here if needed. */
+/* For example, changing the default blue accent color: */
+/*
+.bg-blue-600 { background-color: #your-custom-color; }
+.hover\:bg-blue-700:hover { background-color: #your-custom-darker-color; }
+.text-blue-400 { color: #your-custom-color; }
+.hover\:text-blue-300:hover { color: #your-custom-lighter-color; }
+*/
+
+/* Example: Slightly increase base font size */
+/*
+body {
+    font-size: 17px;
+}
+*/
+
+/* Example: Add a subtle text shadow to the hero headline */
+/*
+#hero h1 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+*/
